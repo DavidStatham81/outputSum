@@ -1,2 +1,2 @@
 # outputSum
-Учебная программа для вычисления переменной sum по приведенной в задании блок-схеме.
+A training program for calculating the sum variable according to the flowchart given in the task.
